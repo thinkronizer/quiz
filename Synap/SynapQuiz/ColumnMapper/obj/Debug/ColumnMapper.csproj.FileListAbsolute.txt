@@ -1,0 +1,6 @@
+D:\DevProject\Synap\SynapQuiz\ColumnMapper\bin\Debug\ColumnMapper.dll.config
+D:\DevProject\Synap\SynapQuiz\ColumnMapper\bin\Debug\ColumnMapper.dll
+D:\DevProject\Synap\SynapQuiz\ColumnMapper\bin\Debug\ColumnMapper.pdb
+D:\DevProject\Synap\SynapQuiz\ColumnMapper\obj\Debug\ColumnMapper.csprojResolveAssemblyReference.cache
+D:\DevProject\Synap\SynapQuiz\ColumnMapper\obj\Debug\ColumnMapper.dll
+D:\DevProject\Synap\SynapQuiz\ColumnMapper\obj\Debug\ColumnMapper.pdb

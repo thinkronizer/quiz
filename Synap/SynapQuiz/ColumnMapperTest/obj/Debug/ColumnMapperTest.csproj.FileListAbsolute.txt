@@ -1,0 +1,10 @@
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\ColumnMapperTest.exe.config
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\ColumnMapperTest.exe
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\ColumnMapperTest.pdb
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\ColumnMapper.dll
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\nunit.framework.dll
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\ColumnMapper.pdb
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\bin\Debug\nunit.framework.xml
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\obj\Debug\ColumnMapperTest.csprojResolveAssemblyReference.cache
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\obj\Debug\ColumnMapperTest.exe
+D:\DevProject\Synap\SynapQuiz\ColumnMapperTest\obj\Debug\ColumnMapperTest.pdb
